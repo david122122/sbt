@@ -124,7 +124,11 @@ public class DogController implements ApplicationContextAware {
         list.add(a);
         getSun(list);
 
+
         System.out.println("dev1");
+        System.out.println("uat1");
+        System.out.println("uat2");
+
     }
 
 }
