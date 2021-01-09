@@ -1,0 +1,1 @@
+org.springframework.boot.ApplicationRunner=src.main.com.config.MySpringApplicationInitialize
