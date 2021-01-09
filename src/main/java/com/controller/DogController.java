@@ -1,7 +1,6 @@
 package com.controller;
 
 import com.common.SimpleResponse;
-import com.model.DeadLockDemo;
 import com.model.Dog;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
