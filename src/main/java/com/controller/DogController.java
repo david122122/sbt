@@ -123,6 +123,8 @@ public class DogController implements ApplicationContextAware {
         String[] a = new  String[50];
         list.add(a);
         getSun(list);
+
+        System.out.println("dev1");
     }
 
 }
