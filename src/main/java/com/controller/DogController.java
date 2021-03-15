@@ -16,6 +16,9 @@ import org.springframework.web.servlet.HandlerMapping;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ArrayBlockingQueue;
+import java.util.concurrent.ThreadPoolExecutor;
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -129,6 +132,10 @@ public class DogController implements ApplicationContextAware {
         System.out.println("uat1");
         System.out.println("uat2");
         System.out.println("dev2");
+
+    }
+
+    public static void main(String[] args) {
 
     }
 
