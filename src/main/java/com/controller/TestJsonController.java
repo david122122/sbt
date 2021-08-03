@@ -24,4 +24,8 @@ public class TestJsonController {
         list.add("||lisi");
         return myJsonService.toMyJsonStr(list);
     }
+
+    public void testA(){
+
+    }
 }
