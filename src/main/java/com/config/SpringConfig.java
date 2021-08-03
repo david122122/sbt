@@ -5,8 +5,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.stereotype.Component;
 
-@Configuration
+/*@Configuration
 @ComponentScan(value = "com.config")
-@EnableAspectJAutoProxy
+@EnableAspectJAutoProxy*/
 public class SpringConfig {
 }
