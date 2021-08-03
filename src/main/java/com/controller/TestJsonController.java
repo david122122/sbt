@@ -28,4 +28,8 @@ public class TestJsonController {
     public void testA(){
 
     }
+
+    public void testB(){
+
+    }
 }
