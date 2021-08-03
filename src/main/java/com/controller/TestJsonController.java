@@ -32,4 +32,8 @@ public class TestJsonController {
     public void testB(){
 
     }
+
+    public void testC(){
+
+    }
 }
